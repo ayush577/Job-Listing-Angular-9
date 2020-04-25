@@ -94,10 +94,10 @@
 
 .company_profile_header > .jobs_new {
   font-size: 0.7rem;
-  font-weight: 700;
+  font-weight: 600;
   color: var(--white);
   background-color: var(--primary-color);
-  padding: 4px 7px;
+  padding: 4px 8px;
   border-radius: 30px;
   text-transform: uppercase;
   letter-spacing: 0.8px;
